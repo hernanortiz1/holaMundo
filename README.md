@@ -17,7 +17,7 @@ Esta es una aplicación web básica creada con **React** que muestra el mensaje:
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/hernanortiz1/cineCrud.git
+   git clone https://github.com/hernanortiz1/holaMundo.git
    ```
 2. Ejecutar el archivo en el navegador y probar la funcionalidad.
 
