@@ -1,10 +1,11 @@
 import "bootstrap/dist/css/bootstrap.min.css";
+import HelloWorld from "./components/HelloWorld";
 
 function App() {
 
   return (
     <>
-      <h1>hola mundo</h1>
+      <HelloWorld/>
     </>
   )
 }
